@@ -2,4 +2,5 @@ venv/
 __pycache__/
 .DS_Store
 *.pyc
-data/
+data/export.xml
+# data/sample_export.xml is committed intentionally
